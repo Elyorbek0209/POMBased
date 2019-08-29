@@ -1,0 +1,40 @@
+
+
+Test Case:
+
+
+1) Launch Chrome Browser
+
+2) Launch URL = "https://admin-demo.nopcommerce.com/login?ReturnUrl=%2Fadmin%2F"
+
+3) Provide userName: admin@yourstore.com
+
+4) Provide Password: admin
+
+5) Click login
+
+6) Verify Expected Title: Dashboard / nopCommerce administration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
